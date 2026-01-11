@@ -1,8 +1,11 @@
 This project has been created as part of the 42 curriculum.
-use make to generate an executable, the executable takes in one or multiple parameters of unsorted numbers ex: "1 3 2" or 1 3 2, returns ERROR on stderr if different type is passed or id there are duplicates.
+
 the programe sorts given numbers as if they are stacked one on top of the other where we can only use the one on top and the one on bottom for operations.
 we have two stacks one empty in the begining and the other filled with the input.
 we use the operation below to sort the first stack.
+
+
+use make to generate an executable, the executable takes in one or multiple parameters of unsorted numbers ex: "1 3 2" or 1 3 2, returns ERROR on stderr if different type is passed or id there are duplicates.
 
 sa (swap a): Swap the first 2 elements at the top of stack a.
 
